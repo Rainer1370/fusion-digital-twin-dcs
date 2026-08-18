@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Fusion Digital Twin DCS Reference Architecture"
+message: "Please cite this public technical preview using the metadata below."
+type: software
+authors:
+  - family-names: Rainer
+    given-names: Robert
+url: "https://github.com/Rainer1370/fusion-digital-twin-dcs"
+repository-code: "https://github.com/Rainer1370/fusion-digital-twin-dcs"
+version: "1.0.0-public-preview"
+date-released: "2026-08-18"
